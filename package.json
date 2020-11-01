@@ -1,0 +1,24 @@
+{
+  "name": "tienda_online",
+  "version": "1.0.0",
+  "description": "backend de la tienda online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likaro-nav/sturdy-fortnight.git"
+  },
+  "author": "Lina Katherine Larrea Rodriguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Likaro-nav/sturdy-fortnight/issues"
+  },
+  "homepage": "https://github.com/Likaro-nav/sturdy-fortnight#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
