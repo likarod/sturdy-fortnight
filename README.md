@@ -1,5 +1,5 @@
 # Bienvenido al backend de YUGA: Sturdy fortnight 💸
-  ➡ Este proyecto forma parte de la segunda parte de la entrevista técnica por parte de The Bridget. 🛍👝
+  ➡ Este proyecto es la segunda parte de una simulación de entrevista técnica realizada por el centro: [The Bridget](https://thebridge.tech/). 🛍👝
 
 # Introducción al proyecto: ⚙
 
